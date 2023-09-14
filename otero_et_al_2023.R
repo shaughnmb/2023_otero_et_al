@@ -24,8 +24,8 @@
 ##
 # Title: Organ-Chips Enhance the Maturation of Human iPSC-Derived Dopamine Neurons
 #
-# Authors:  MAria G. Otero 1, Shaughn Bell 1, Alexander H. Laperle 1, George Lawless 1, 
-#           Zachary NMyers 1, Marian A. Castro 1, Jaquelyn M. Villalba, Clive N. Svendsen*1
+# Authors:  Maria G. Otero 1, Shaughn Bell 1, Alexander H. Laperle 1, George Lawless 1, 
+#           Zachary Myers 1, Marian A. Castro 1, Jaquelyn M. Villalba, Clive N. Svendsen*1
 #
 # Affiliations: 1 Cedars-Sinai Board of Governors Regenerative Medicine 
 #                 Institute, Cedars-Sinai Medical Center, Los Angeles CA
@@ -36,7 +36,7 @@
 
 ##
 # R version 4.2.1
-# R Script Title:  2023_otero_et_al_v3.R
+# R Script Title:  otero_et_al_2023.R
 # R Script Author:  Shaughn Bell
 # R Script Corresponding Email:  Shaughn.Bell@cshs.org
 #
